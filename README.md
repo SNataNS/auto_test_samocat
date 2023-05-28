@@ -41,6 +41,8 @@ Linux:
 
 `pip3 install -r requirements.txt`
 
+В файле config.py задайте адрес сервера в переменной URL_SERVER
+
 ## Запуск:
 
 Windows:
