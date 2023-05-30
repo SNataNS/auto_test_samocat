@@ -1,6 +1,6 @@
 import pytest
 from wr_order import write_order, read_order
-from config import *
+from configuration import *
 from send_request import send_get_request, send_post_request
 
 @pytest.fixture()

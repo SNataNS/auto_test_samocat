@@ -1,5 +1,5 @@
 import requests
-from config import *
+from configuration import *
 from wr_order import write_order, read_order
 import os
 
