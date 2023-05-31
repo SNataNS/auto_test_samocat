@@ -1,3 +1,6 @@
+# Наталья Буданова, 4-я когорта — Финальный проект. 
+# Инженер по тестированию плюс
+
 import pytest
 from wr_order import write_order, read_order
 from configuration import *
